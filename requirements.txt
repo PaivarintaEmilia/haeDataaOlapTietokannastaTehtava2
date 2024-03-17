@@ -1,0 +1,8 @@
+mysql-connector-python
+psycopg2
+sqlalchemy
+# Voidaan insertoida näennäisesti oikeaa dataa
+faker
+faker-commerce
+# Tällä hashataan salasanat!
+passlib[bcrypt]
